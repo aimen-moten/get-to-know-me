@@ -8,7 +8,8 @@
 Made using HTML and CSS.
 
 Preview
-![image](https://github.com/user-attachments/assets/649bc2bf-b7b5-4e25-9400-482043af61f8)
+![image](https://github.com/user-attachments/assets/94befd98-b234-46e8-9a11-7c6373aee197)
+
 
 
 
