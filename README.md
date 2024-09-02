@@ -1,5 +1,5 @@
-## Get To Know Me!
-# This website contains the following information about me:
+# Get To Know Me!
+## This website contains the following information about me:
 1. Name
 2. University, Graduation Year and Major
 3. Hobbies
