@@ -8,9 +8,8 @@
 Made using HTML and CSS.
 
 Preview
-![image](https://github.com/user-attachments/assets/94befd98-b234-46e8-9a11-7c6373aee197)
 
-
+<img width="1160" alt="Screenshot 2024-09-03 at 2 27 49 AM" src="https://github.com/user-attachments/assets/f7740e26-2804-4846-afc4-ccb638130e06">
 
 
 Copyright © 2024 Aimen Moten
